@@ -10,7 +10,7 @@
 
 <!-- ANIMATED WAVE + HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6E40C9,60:A855F7,100:06B6D4&height=200&section=header&text=CHEEDELLA%20JAYESH&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6E40C9,60:A855F7,100:06B6D4&height=200&section=header&text=JAYESH&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- TYPING SVG -->
@@ -31,7 +31,7 @@
 
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" style="border-radius: 12px;"/>
 
-```python
+⁠ python
 class JayeshCheedella:
     def __init__(self):
         self.name       = "Cheedella Jayesh"
@@ -56,18 +56,18 @@ class JayeshCheedella:
 
     def current_focus(self):
         return "Building AI-powered solutions for real-world problems 🚀"
-```
+ ⁠
 
 <br clear="right"/>
 
 ### 🌟 Quick Facts
-- 🎓 **4th Year CSE Student** at Parul University — GPA: **7.01**
-- 🤖 Built an **AI Crime Detection System** using React.js, Node.js, MongoDB & Python
-- ☁️ Certified in **AI & Machine Learning** (Simplilearn + TCS Team Experts)
-- 🏫 Schooled at Good Shepherd English Medium School — **85%** (SSC)
-- 🏫 Junior College at SDR's — **88.9%** (Intermediate)
-- 🎮 Love outdoor games, DIY electronics, music & tracking latest tech trends
-- 🌐 Fluent in **English, Telugu & Hindi**
+•⁠  ⁠🎓 *4th Year CSE Student* at Parul University — GPA: *7.01*
+•⁠  ⁠🤖 Built an *AI Crime Detection System* using React.js, Node.js, MongoDB & Python
+•⁠  ⁠☁️ Certified in *AI & Machine Learning* (Simplilearn + TCS Team Experts)
+•⁠  ⁠🏫 Schooled at Good Shepherd English Medium School — *85%* (SSC)
+•⁠  ⁠🏫 Junior College at SDR's — *88.9%* (Intermediate)
+•⁠  ⁠🎮 Love outdoor games, DIY electronics, music & tracking latest tech trends
+•⁠  ⁠🌐 Fluent in *English, Telugu & Hindi*
 
 ---
 
@@ -113,17 +113,17 @@ class JayeshCheedella:
 
 </div>
 
-> An AI-powered platform to revolutionize public safety and law enforcement through intelligent crime monitoring and analysis.
+	⁠An AI-powered platform to revolutionize public safety and law enforcement through intelligent crime monitoring and analysis.
 
 | Feature | Details |
 |---|---|
-| 🎯 **Purpose** | Improve crime reporting, monitoring & analysis for public safety |
-| 🤖 **AI Features** | Crime pattern detection, hotspot identification, actionable insights |
-| 📊 **Dashboard** | Real-time dashboards with visualizations & alerts |
-| 👥 **Roles** | Role-based access for Users, Officers & Analysts |
-| 🛠️ **Tech Stack** | React.js, Node.js, MongoDB, Python, ML Libraries |
-| 🔐 **Security** | Secure, scalable, and user-friendly platform |
-| 📈 **Impact** | Data-driven decision making for law enforcement |
+| 🎯 *Purpose* | Improve crime reporting, monitoring & analysis for public safety |
+| 🤖 *AI Features* | Crime pattern detection, hotspot identification, actionable insights |
+| 📊 *Dashboard* | Real-time dashboards with visualizations & alerts |
+| 👥 *Roles* | Role-based access for Users, Officers & Analysts |
+| 🛠️ *Tech Stack* | React.js, Node.js, MongoDB, Python, ML Libraries |
+| 🔐 *Security* | Secure, scalable, and user-friendly platform |
+| 📈 *Impact* | Data-driven decision making for law enforcement |
 
 ---
 
@@ -167,7 +167,7 @@ class JayeshCheedella:
 
 ## 🎓 Education Timeline
 
-```
+
 2021        ──────►  SSC — Good Shepherd English Medium School
                      📍 Andhra Pradesh, India | Grade: 85%
 
@@ -176,7 +176,7 @@ class JayeshCheedella:
 
 2023–2027   ──────►  B.Tech CSE — Parul University (Current)
                      📍 Gujarat, India | CGPA: 7.01
-```
+
 
 ---
 
@@ -208,9 +208,9 @@ class JayeshCheedella:
 
 <div align="center">
 
-### 💬 *"The best way to predict the future is to build it."*
+### 💬 "The best way to predict the future is to build it."
 
-**Open to internships, collaborations & exciting opportunities! 🚀**
+*Open to internships, collaborations & exciting opportunities! 🚀*
 
 </div>
 
