@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/29191296/README.1.md)[Uploading README (1).md…<div align="center">
+<div align="center">
 
 <!-- VISITOR COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=jayesh982&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
@@ -218,4 +218,3 @@ class JayeshCheedella:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:A855F7,100:0D1117&height=120&section=footer" width="100%"/>
 </div>
-]()
